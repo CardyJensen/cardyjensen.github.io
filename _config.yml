@@ -25,9 +25,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title:AWS
-email: your-kadigberesuu@gmail.com
-author: Kadi Gberesuu
-
+email: kadigberesuu@gmail.com
+author: Kadi
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
 # * current year: {currentYear}
@@ -40,10 +39,10 @@ author: Kadi Gberesuu
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2025-{currentYear} {KadiGberesuu}"
+copyright: Copyright (cleft) 2017-{2025} {CardyJensen}"
 
 description: >- # this means to ignore newlines until "baseurl:"
- Documenting my journey to the clouds. A weekly blog walking you through my learning journey. See you at the other end. 
+ Documenting my journey to the clouds. A weekly blog walking you through my learning journey. See you on tomorrow. 
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
